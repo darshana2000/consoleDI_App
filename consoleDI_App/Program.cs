@@ -13,7 +13,7 @@ namespace consoleDI_App
         static void Main(string[] args)
         {
             var product = string.Empty;
-
+            //add some code line
             while (product != "exit")
             {
                 Console.WriteLine("Enter product:");
