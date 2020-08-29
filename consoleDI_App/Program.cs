@@ -8,13 +8,15 @@ namespace consoleDI_App
     {
         public Program()
         {
+            //sample check git hub pull and push
+
             //nneed a conflict
 
         }
         static void Main(string[] args)
         {
             var product = string.Empty;
-
+            //add some code line
             while (product != "exit")
             {
                 Console.WriteLine("Enter product:");
