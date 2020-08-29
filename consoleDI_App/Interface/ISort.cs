@@ -6,6 +6,6 @@ namespace consoleDI_App.Interface
 {
     interface ISort
     {
-//some dummy test
+
     }
 }

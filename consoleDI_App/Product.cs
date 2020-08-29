@@ -4,7 +4,6 @@ using System.Text;
 
 namespace consoleDI_App
 {
-    //who did this
     public enum Product
     {
         keyboard=0,
