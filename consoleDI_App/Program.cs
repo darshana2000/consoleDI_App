@@ -28,6 +28,7 @@ namespace consoleDI_App
 
         private static void RegisterServices()
         {
+            //another teste
             throw new NotImplementedException();
         }
     }
