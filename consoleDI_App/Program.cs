@@ -8,6 +8,7 @@ namespace consoleDI_App
     {
         public Program()
         {
+            //nneed a conflict
 
         }
         static void Main(string[] args)
