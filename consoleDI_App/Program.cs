@@ -8,7 +8,7 @@ namespace consoleDI_App
     {
         public Program()
         {
-
+            //sample check git hub pull and push
         }
         static void Main(string[] args)
         {
