@@ -6,6 +6,5 @@ namespace consoleDI_App.Interface
 {
     interface ISort
     {
-
     }
 }

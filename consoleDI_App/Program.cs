@@ -28,6 +28,7 @@ namespace consoleDI_App
 
         private static void RegisterServices()
         {
+            //generate a conflict
             throw new NotImplementedException();
         }
     }
